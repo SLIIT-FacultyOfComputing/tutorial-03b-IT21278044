@@ -6,6 +6,11 @@ int volume(int height, int width, int length);
 
 // 1. Define a structure called Box
 // have the integer data types Height, Width, Length
+struct box {
+int Height;
+int Width;
+int Length;
+}box1,box2;
 
 // Do not change the main function
 int main() {
