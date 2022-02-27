@@ -9,7 +9,7 @@ int volume(int height, int width, int length);
 struct box {
 int Height;
 int Width;
-int Length;
+int Lengt;
 }box1,box2;
 
 // Do not change the main function
